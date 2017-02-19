@@ -1,5 +1,3 @@
 {
- "data":{
-  ["John","Mary","May","Terry","Peter","Kent"]
- },
+ "data":["John","Mary","May","Terry","Peter","Kent"],
 }
