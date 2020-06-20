@@ -1,2 +1,2 @@
 # reactnative-test
-\nThis is my testing project.
+This is my testing project.
